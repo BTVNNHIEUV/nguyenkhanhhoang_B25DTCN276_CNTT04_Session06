@@ -1,0 +1,49 @@
+body{background-color: #F0F9FF;}
+
+header{text-align: center;}
+
+h1{background-color: #CCFBF1;
+    color: #0F766E;}
+
+.link{text-decoration: none;
+    font-weight: bolder;
+     color: #0369A1;font-size: 18px;}
+
+.menu{background-color: #E0F2FE;}
+
+.link:hover{color: white;
+    background-color: #0284C7;}
+
+.section{background-color: white;}
+
+.section h2{color: #155E75;}
+
+.service:hover{background-color: #DBEAFE;}
+
+.footer{background-color: #0F766E;
+    color: white;
+    text-align: center;}
+
+th{background-color: #BAE6FD;
+    color: #075985;}
+
+td{background-color: #F8FAFC;}
+
+.why:hover{background-color: #E0F2FE;}
+
+.form{text-align: center;
+    background-color: #F8FAFC;
+    font-size: 18px;}
+
+label{color: #134E4A;
+    font-weight: 900;}
+
+.box{font-size: 18px ;}
+
+.box:focus{background-color: #ECFEFF;}
+
+button{color: white;background-color: #0EA5A4;
+    font-weight: 600;
+    font-size: larger;}
+    
+button:hover{background-color: #0F766E;}
